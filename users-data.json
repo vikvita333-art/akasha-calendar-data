@@ -3,7 +3,12 @@
     {
       "username": "maro_cco",
       "password": "M@ro11112007",
-      "notes": []
+      "notes": [
+        {
+          "date": "2025-11-21",
+          "note": "тест1"
+        }
+      ]
     }
   ]
 }
